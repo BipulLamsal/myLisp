@@ -75,4 +75,3 @@
 (format t "~d ~%" *college-ready*)
 
 
-
